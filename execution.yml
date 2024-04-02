@@ -8,4 +8,4 @@ scenarios:
     timeout: 10s
     think-time: 3s
     requests: 
-    - url: https://localhost:8080
+    - url: https://google.com
