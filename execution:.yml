@@ -1,0 +1,11 @@
+execution:
+- executor: selenium 
+  scenario: open_page
+
+scenarios: 
+  open_page:
+    browser: Mozilla
+    timeout: 10s
+    think-time: 3s
+    requests: 
+    - url: https://localhost:8080
