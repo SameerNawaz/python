@@ -4,7 +4,7 @@ execution:
 
 scenarios: 
   open_page:
-    browser: Mozilla
+    browser: Mozilla Firefox
     timeout: 10s
     think-time: 3s
     requests: 
